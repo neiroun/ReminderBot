@@ -157,7 +157,7 @@ docker run -d \
 1. Форкните репозиторий
 2. Создайте ветку для своей фичи (`git checkout -b feature/amazing-feature`)
 3. Сделайте коммит изменений (`git commit -m 'Add some amazing feature'`)
-4. Запушьте ветку (`git push origin feature/amazing-feature`)
+4. Запуште ветку (`git push origin feature/amazing-feature`)
 5. Откройте Pull Request
 
 ## Примечание
