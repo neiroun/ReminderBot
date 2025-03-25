@@ -35,7 +35,7 @@ class AppConfig:
         ECHO = False
 
     class Bot:
-        TOKEN = "7595969999:AAF5TYM-FgMIkp4_7eVswhv3vIVkICc1MNc"
+        TOKEN = "YOUR_TOKEN"
         TIMEOUT = 30
         STATE_TTL = 3600  # 1 hour in seconds
 
