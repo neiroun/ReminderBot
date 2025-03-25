@@ -1,7 +1,7 @@
 # Telegram Reminder Bot 🤖⏰
 
 ![Python Version](https://img.shields.io/badge/python-3.10%2B-blue)
-![License](https://img.shields.io/badge/license-gpl-greeen)
+![License](https://img.shields.io/badge/license-GPL-greeen)
 ![Architecture](https://img.shields.io/badge/architecture-async-orange)
 
 Простой бот для управления напоминаниями с поддержкой естественного языка ввода времени. Проект является основой для каких-либо учебных проектов или самостоятельного изучения кодинга телеграм ботов.
